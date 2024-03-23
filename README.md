@@ -4,4 +4,4 @@ As a student of the Master of Computer Science of the Gustave Eiffel University,
 
 ### News 🗞️
 
-I am actually looking for an internship to pass the first year of my Master degree.
+I am actually looking for an internship to pass the second year of my Master degree.
